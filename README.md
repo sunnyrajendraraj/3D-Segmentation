@@ -43,6 +43,8 @@ To set up the environment and run the code, follow these steps:
 
 4. **Prepare the Data**:
 
+   - Download the Dataset from [here](https://zenodo.org/records/7860267)
+
    - Place your raw CT images and label files in the `images_path` and `labels_path` directories respectively.
    - Ensure the data is organized in the format expected by the code.
 
