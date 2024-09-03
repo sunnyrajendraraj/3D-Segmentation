@@ -90,4 +90,4 @@ The chosen model for this project is the **VNet** architecture, a 3D U-Net varia
 
 For visualizing the 3D rendered segments of the predicted organs, you can use specialized software or scripts to create a video demonstration. Ensure to capture the segmented organs in 3D and provide visual comparisons with the ground truth.
 
-
+The 3D demonstration video of the segmentation model would be uploaded soon.
